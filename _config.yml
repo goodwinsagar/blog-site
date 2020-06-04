@@ -34,7 +34,7 @@ words_per_minute: 200
 teaser: "../assets/images/logo.png"
 logo: "../assets/images/logo.png"
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
