@@ -1,9 +1,9 @@
 ---
-layout: single
 title: "Welcome Post"
 date: 2020-06-04 21:49:12 +0530
 categories: jekyll update
 header:
+  overlay_image: assets\images\screenshot.png
   teaser: assets\images\screenshot.png
 ---
 
